@@ -18,8 +18,16 @@
 
  </div>
 
-
+<div align="center" style="display: inline_block"><br>
 [![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/emanumslv_?igsh=MTEyenMxZHp5a2k4OQ==)
+
+ <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+ <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+ <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+
+ </div>
+ <br>
+ <br>
 
  
  
