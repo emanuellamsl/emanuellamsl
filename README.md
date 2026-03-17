@@ -1,16 +1,17 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff79c6"/>
 
-<!--
-**emanuellamsl/emanuellamsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align= "center">
+ <p>デベロッパー</p>
+</div>
 
-Here are some ideas to get you started:
+<div align= "center" width="100%"
+ <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=B8008A&width=435&lines=Seja+Bem-Vindo!;Me+chamo+Emanuella+;Estudante+de+Dev.+de+Sistemas)](https://git.io/typing-svg)/>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+  <br>
+  <div align="center">
+
+  |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emanuellamsl&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emanuellamsl&theme=jolly) |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emanuellamsl&theme=jolly&utcOffset=8) |
+| :-: | :-: | :-: |
+ 
