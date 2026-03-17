@@ -1,9 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff79c6"/>
 
-
-
-<div align= "center" width="100%"
- <img src= | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=B8008A&width=435&lines=Seja+Bem-Vindo!;Me+chamo+Emanuella+;Estudante+de+Dev.+de+Sistemas)](https://git.io/typing-svg) |
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=B8008A&center=true&vCenter=true&width=400&lines=Seja+Bem-Vindo!;Me+chamo+Emanuella+;Estudante+de+Dev.+de+Sistemas" />
+</div>
   </div>
 
   <br>
@@ -18,8 +17,7 @@
 
  </div>
 
-<div align="center" style="display: inline_block"><br>
-[![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/emanumslv_?igsh=MTEyenMxZHp5a2k4OQ==)
+
 
  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
