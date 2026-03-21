@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="[ema](https://github.com/user-attachments/assets/09ee5579-4a4e-4f5e-8881-1318f3069666) height="90">
-</p>!
+<![ema](https://github.com/user-attachments/assets/0fa41459-7008-4ad5-83ac-d95296d2182e)" height="100">
+
 
 
 
