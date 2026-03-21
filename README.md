@@ -1,44 +1,32 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Bem-vinda%20ao%20meu%20GitHub&fontSize=50" alt="Banner" width="100%">
+<h2 align="left">Olá, Seja bem-vindo!</h2>
+
+###
+
+<img align="right" height="150" src="https://imgur.com/gallery/pokemon-maKLDew#SKWEX8d"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-# 👋 Olá, eu sou Emanuella!
+###
 
-<div align="center">
-  <a href="https://github.com/emanuellamsl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
----
-
-### 👤 Sobre mim
-Estudante de **Desenvolvimento de Sistemas**, focada em criar interfaces modernas e funcionais. Atualmente aprimorando conhecimentos em Front-end e UX/UI.
-
-* 💻 Desenvolvedora em formação
-* 🎨 Apaixonada por design e layouts responsivos
-* 🚀 Atualmente trabalhando em sistemas de gestão e projetos escolares
-
----
-
-### 🛠 Tecnologias
-
-**Core Technologies**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Ferramentas & Estilos**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuellamsl&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellamsl&layout=compact&langs_count=7&theme=dark" />
-</div>
+###
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuellamsl&theme=dark" />
