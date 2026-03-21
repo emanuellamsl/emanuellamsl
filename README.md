@@ -2,8 +2,6 @@
 ###![Seja Bem-vindo!](https://github.com/user-attachments/assets/26099761-28f2-48b5-a1c0-8047e8507c0b)
 <h2 align="left">Olá, Seja bem-vindo!</h2>
 
-###![ema](https://github.com/user-attachments/assets/26099761-28f2-48b5-a1c0-8047e8507c0b)
-
 
 
 ###
