@@ -1,112 +1,50 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome+to+[emanuellamsl]%27s+Github&fontSize=35&fontAlignY=50&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Bem-vinda%20ao%20meu%20GitHub&fontSize=50" alt="Banner" width="100%">
 </div>
 
-<br>
+# 👋 Olá, eu sou Emanuella!
 
 <div align="center">
-  <h3>⚡ Connect with me</h3>
-  <p>
-    <a href="https://linkedin.com/in/[SeuNomeDoLinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://t.me/[SeuUsernameDoTelegram]"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-    <a href="https://wa.me/[SeuNumeroDoWhatsApp]"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  </p>
+  <a href="https://github.com/emanuellamsl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<br>
+---
+
+### 👤 Sobre mim
+Estudante de **Desenvolvimento de Sistemas**, focada em criar interfaces modernas e funcionais. Atualmente aprimorando conhecimentos em Front-end e UX/UI.
+
+* 💻 Desenvolvedora em formação
+* 🎨 Apaixonada por design e layouts responsivos
+* 🚀 Atualmente trabalhando em sistemas de gestão e projetos escolares
+
+---
+
+### 🛠 Tecnologias
+
+**Core Technologies**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Ferramentas & Estilos**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuellamsl&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellamsl&layout=compact&langs_count=7&theme=dark" />
+</div>
 
 <div align="center">
-  <h3>👩‍💻 About me</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuellamsl&theme=dark" />
 </div>
 
-<p align="center">
-  Hello, I'm **[Seu Nome Aqui]** — a frontend Developer focused on building clean, scalable, and modern web applications.
-  I value structure, performance, and long-term maintainability over hype.
-</p>
+---
 
-<p align="center">
-  Frontend Developer
-  <br>
-  React / JavaScript / [Sua Tech Principal]
-  <br>
-  Modern UI & clean architecture
-  <br>
-  Strong GitHub collaboration mindset
-</p>
-
-<br>
-
-<div align="center">
-  <h3>🛠️ Technologies</h3>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Core Technologies</b></td>
-  </tr>
-  <tr>
-    <td>
-      <div align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frameworks & Libraries</b> (Se tiver)</td>
-  </tr>
-  <tr>
-    <td>
-      <div align="center">
-        </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <h3>🤝 Team Collaboration</h3>
-  <p>Experienced in team development using GitHub, pull requests, code reviews, and structured workflows.</p>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>📊 Statistics</h3>
-  <p>[SeuNome]%27s GitHub Stats</p>
-</div>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[emanuellamsl]&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=[emanuellamsl]&show_icons=true&theme=dark&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SeuNomeDeUsuarioDoGitHub]&theme=dark&hide_border=true" alt="Contribution Streak">
-  
-  <br><br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[emanuellamsl]&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph">
-</div>
-
-<br>
-
-<div align="center">
-  <p>Thanks for visiting! [SeuNome]</p>
-</div>
+### 📈 Gráfico de Contribuições
+![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=emanuellamsl&theme=react-dark)
