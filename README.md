@@ -1,3 +1,4 @@
+![Seja bem vindo](./img/ema.png)
 <h2 align="left">Olá, Seja bem-vindo!</h2>
 
 ###
