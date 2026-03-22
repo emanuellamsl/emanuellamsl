@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Me+chamo+Emanuella+Maria;3%2F4+T%C3%A9cnico+de+desenv.+de+Sistemas)](https://git.io/typing-svg)
+
+
+
 ![ema](https://github.com/user-attachments/assets/0fa41459-7008-4ad5-83ac-d95296d2182e) 
 
 
