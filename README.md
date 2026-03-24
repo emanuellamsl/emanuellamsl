@@ -6,8 +6,8 @@
 <h1 align="left">Olá 👋</h1>
 
 ###
+<h2 align="left">Desenvolvedora em formação | 3/4 Técnico</h2>
 
-<p align="left">Desenvolvedora em formação | 3/4 Técnico</p>
 
 ###
 
