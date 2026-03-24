@@ -3,11 +3,11 @@
 
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Desenvolvedora em formação | 3/4 Técnico</p>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">Sou estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas, com foco em arquitetura de software e soluções Full-stack. Minha trajetória é pautada pelo equilíbrio entre a lógica de programação e a clareza no design de interfaces.</p>
 
 ###
 
