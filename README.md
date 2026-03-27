@@ -44,7 +44,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:emanuellahsilva2020@gmail.com target="_blank">
+  <a href="gmail:emanuellahsilva2020@gmail.com target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     <a href="https://wa.me/5511959692626" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
