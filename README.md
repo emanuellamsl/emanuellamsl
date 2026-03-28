@@ -5,23 +5,19 @@
 
 <h1 align="left">Olá 👋</h1>
 
-###
 
 
-
-###
 
 <h2 align="left">Sobre mim</h2>
 
-###
 
 <p align="left">Sou estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas, com foco em arquitetura de software e soluções Full-stack. Minha trajetória é pautada pelo equilíbrio entre a lógica de programação e a clareza no design de interfaces.</p>
 
-###
+
 
 <h2 align="left">Linguagens</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -37,11 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+
 
 <h2 align="left">Entre em contato</h2>
 
-###
 
 <div align="left">
   <a href="gmail:emanuellahsilva2020@gmail.com target="_blank">
@@ -54,4 +49,4 @@
 </div>
 
 
-###
+
