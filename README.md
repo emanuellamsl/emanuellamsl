@@ -31,15 +31,25 @@
 <p align="left">Entre em contato</p>
 
 
+<p align="left">Entre em contato</p>
+
 <div align="left">
-  <a href="gmail:emanuellahsilva2020@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    <a href="https://wa.me/5511959692626" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-      </a>
-  <a href="https://www.instagram.com/emanumslv_" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <!-- Link do Gmail corrigido com mailto: -->
+  <a href="mailto:emanuellahsilva2020@gmail.com" target="_blank">
+    <img src="https://githubusercontent.com" width="52" height="40" alt="gmail logo" />
+  </a>
+  
+  <!-- Link do WhatsApp -->
+  <a href="https://wa.me" target="_blank">
+    <img src="https://githubusercontent.com" width="52" height="40" alt="whatsapp logo" />
+  </a>
+  
+  <!-- Link do Instagram -->
+  <a href="https://instagram.com_" target="_blank">
+    <img src="https://githubusercontent.com" width="52" height="40" alt="instagram logo" />
+  </a>
 </div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanuellamsl/emanuellamsl/output/pacman-contribution-graph-dark.svg">
