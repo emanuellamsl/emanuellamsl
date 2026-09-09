@@ -1,80 +1,54 @@
+<div align="center">
+  <!-- Sua foto de perfil (Link direto corrigido) -->
+  <img src="https://github.com" width="150" style="border-radius: 50%;" alt="Emanuella" />
 
-![ema](https://github.com/user-attachments/assets/0fa41459-7008-4ad5-83ac-d95296d2182e) 
-
-
-
+  # Olá, eu sou a Emanuella! 👋
+</div>
 
 <p align="left">Sou estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas, com foco em arquitetura de software e soluções Full-stack. Minha trajetória é pautada pelo equilíbrio entre a lógica de programação e a clareza no design de interfaces.</p>
 
+---
 
-
-<p align="left">Linguagens</p>
-
-
+### 🛠️ Linguagens e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="VS Code" />
 </div>
 
+---
 
-
-<p align="left">Entre em contato</p>
-
-
-![ema](https://github.com) 
-
-<p align="left">Sou estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas, com foco em arquitetura de software e soluções Full-stack. Minha trajetória é pautada pelo equilíbrio entre a lógica de programação e a clareza no design de interfaces.</p>
-
-<p align="left">Linguagens</p>
+### 📬 Entre em contato
 
 <div align="left">
-  <img src="https://jsdelivr.net" height="40" alt="javascript logo" />
-  <img src="https://jsdelivr.net" height="40" alt="html5 logo" />
-  <img src="https://jsdelivr.net" height="40" alt="css logo" />
-  <img src="https://jsdelivr.net" height="40" alt="vscode logo" />
-  <img src="https://jsdelivr.net" height="40" alt="python logo" />
-  <img src="https://jsdelivr.net" height="40" alt="mysql logo" />
-</div>
-
-<p align="left">Entre em contato</p>
-
-<div align="left">
+  <!-- Botão de E-mail funcional -->
   <a href="mailto:emanuellahsilva2020@gmail.com" target="_blank">
-    <img src="https://githubusercontent.com" width="52" height="40" alt="gmail logo" />
+    <img src="https://shields.io" alt="Gmail" />
   </a>
+  
+  <!-- Botão de WhatsApp funcional -->
   <a href="https://wa.me" target="_blank">
-    <img src="https://githubusercontent.com" width="52" height="40" alt="whatsapp logo" />
+    <img src="https://shields.io" alt="WhatsApp" />
   </a>
+  
+  <!-- Botão de Instagram funcional -->
   <a href="https://instagram.com_" target="_blank">
-    <img src="https://githubusercontent.com" width="52" height="40" alt="instagram logo" />
+    <img src="https://shields.io" alt="Instagram" />
   </a>
 </div>
+
+---
+
+### 🎮 Meu Gráfico de Contribuições (Pacman)
+
+*Nota: Certifique-se de que o seu robô (GitHub Actions) foi configurado e executado pelo menos uma vez para que o gráfico abaixo apareça!*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
   <img alt="pacman contribution graph" src="https://githubusercontent.com">
 </picture>
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanuellamsl/emanuellamsl/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanuellamsl/emanuellamsl/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emanuellamsl/emanuellamsl/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-
-
